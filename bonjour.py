@@ -1,2 +1,3 @@
 print("voici un exemple")
-input("appuyer svp")
+print("informatique de gestion")
+input("partir")
